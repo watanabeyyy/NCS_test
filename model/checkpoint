@@ -1,0 +1,2 @@
+model_checkpoint_path: "pred_model"
+all_model_checkpoint_paths: "pred_model"
